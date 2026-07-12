@@ -34,4 +34,4 @@ The goal of KrushiAI is to empower farmers with smart tools and improve agricult
 
 
  ⭐ Support
-If you like this project, give it a star ⭐ on GitHub!
+If you like this project, give it a star ⭐ on GitHub!!!
